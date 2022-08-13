@@ -1,0 +1,9 @@
+1) Prepare Factory & Pair contracts.
+2) Deploy Factory & Pair to the BOBA mainnet
+---- BEFORE DEPLOY ROUTER, UPDATE INIT CODE HASH ON AEROLIBRARY & ROUTER
+3) Prepare Router contract.
+4) Deploy Router to the mainnet.
+5) Create Base Liq pairs.
+6) Prepare Galaxy token.
+7) Deploy Galaxy token.
+8) Configure Frontend with contracts.
